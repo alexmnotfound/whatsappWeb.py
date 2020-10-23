@@ -4,10 +4,10 @@ import time
 import sys
 import pandas as pd
 import os
-# from readXLSX import readXLS
 
 # Defino path de Chromium luego de instalarlo
 chromiumPath = 'C:/Users/MR/Desktop/SC/pythonTest/'
+# Defino path de archivo .xlsx
 xlsPath = 'C:/Users/MR/PycharmProjects/botWA/src/'
 
 '''
